@@ -1,0 +1,8 @@
+[*] Number of model parameters: 23,745,908
+
+[*] Train on 73682 samples
+
+Epoch: 18202/18300 - base LR: 0.000100
+Learning rate: 0.0001
+------------------------------------------------------------------------
+train loss : 8.89 |  epoch: 18202 | iteration: 0 / 2303 | duration 0.07 mins
